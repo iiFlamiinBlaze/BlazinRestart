@@ -1,0 +1,6 @@
+name: BlazinRestart
+author: BlazeTheDev
+version: 1.0.0
+description: An advanced auto server restarting plugin for PocketMine
+api: 3.0.0
+main: iiFlamiinBlaze\BlazinRestart\BlazinRestart
